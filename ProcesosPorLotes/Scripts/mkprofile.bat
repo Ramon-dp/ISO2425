@@ -1,5 +1,5 @@
 @echo off
-REM Script de prueba
+REM Script de Entregable
 REM Autor: Ramón Díez Parejo
 REM Fecha: 13-11-2024
 mkdir %USERPROFILE%\asir %USERPROFILE%\daw %USERPROFILE%\smr %USERPROFILE%\dam %USERPROFILE%\certi
