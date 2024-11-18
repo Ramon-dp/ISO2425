@@ -1,7 +1,7 @@
 @echo off
 REM Script de Entregable
 REM Autor: Ramón Díez Parejo
-REM Fecha: 13-11-2024
+REM Fecha: 18-11-2024
 mkdir %USERPROFILE%\asir %USERPROFILE%\daw %USERPROFILE%\smr %USERPROFILE%\dam %USERPROFILE%\certi
 
 mkdir %USERPROFILE%\asir\docs %USERPROFILE%\asir\pract %USERPROFILE%\asir\exam
