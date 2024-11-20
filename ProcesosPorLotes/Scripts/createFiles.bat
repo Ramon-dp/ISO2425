@@ -9,13 +9,13 @@ set /p ext=
 if %ext% == 1 goto txt
 if %ext% == 2 goto bat
 :txt
-mkdir %arh%.txt
+echo > %arh%.txt
 echo Resumen de la creacion del archivo: Se ha creado con nombre %arh% y con extension .txt
 pause
 exit
 
 :bat
-mkdir %arh%.bat
+echo > %arh%.bat
 echo Resumen de la creacion del archivo: Se ha creado con nombre %arh% y con extension .bat
 pause
 exit
