@@ -39,7 +39,12 @@ pause
 exit
 
 :credir
-
+cls
+echo Creando los directorios alfredoff, marinapg y ramonam en el directorio actual
+mkdir alfredoff marinapg ramonam
+dir .
+pause
+exit
 
 :copcar
 cls
