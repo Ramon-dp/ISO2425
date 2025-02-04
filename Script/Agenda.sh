@@ -2,7 +2,7 @@
 #
 # Script: Entregable
 # Autor: Ramón Díez Parejo
-# Fecha: 03-2-2025
+# Fecha: 04-2-2025
 
 Agen="Agenda/Agenda.txt"
 
