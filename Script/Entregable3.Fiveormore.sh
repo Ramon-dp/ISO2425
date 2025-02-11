@@ -2,7 +2,7 @@
 #
 #Script: Entregable
 #Autor: Ramón Díez Parejo
-#Fecha: 10-02-2025
+#Fecha: 11-02-2025
 
 clear
 
